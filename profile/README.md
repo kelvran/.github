@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="profile/assets/logo.png" alt="Kelvran" width="120" />
+
 # Kelvran
 
 **LLM gateway with an embedded multi-layer cache, plus a standalone agent-evaluation system.**
